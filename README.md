@@ -33,3 +33,16 @@ so data persists between sessions.
 2. Download or clone this repository
 3. Open a terminal in the project folder
 4. Compile the program:
+
+## What I Learned
+- How to create and use Java classes and objects to model real-world data
+- How to use ArrayList to store and manage dynamic lists of objects
+- How to read and write files in Java for persistent data storage
+- How to handle user input errors gracefully using try-catch blocks
+- How to use loops and conditionals to build interactive console menus
+- How to apply object-oriented programming principles in a Java project
+
+## Useful Links
+- [Java Documentation](https://docs.oracle.com/en/java/)
+- [ArrayList Reference](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+- [Java File I/O Guide](https://docs.oracle.com/javase/tutorial/essential/io/)
